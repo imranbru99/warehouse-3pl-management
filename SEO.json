@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "warehouse-3pl-management",
+  "description": "Warehouse & 3PL Management — Logistics Laravel Filament ERP/SaaS for Bangladesh (Dhaka). 3PL WMS for inbound ASN, putaway, pick/pack, billing by storage, and client portals. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "logistics",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/warehouse-3pl-management"
+}
